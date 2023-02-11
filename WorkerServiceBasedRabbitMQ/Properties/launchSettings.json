@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "WorkerServiceBasedRabbitMQ": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = WorkerServiceBasedRabbitMQ.Core
+build_property.ProjectDir = E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\

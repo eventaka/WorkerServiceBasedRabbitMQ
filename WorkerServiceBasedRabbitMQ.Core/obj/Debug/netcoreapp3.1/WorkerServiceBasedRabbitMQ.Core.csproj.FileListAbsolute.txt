@@ -1,0 +1,10 @@
+E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\bin\Debug\netcoreapp3.1\WorkerServiceBasedRabbitMQ.Core.deps.json
+E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\bin\Debug\netcoreapp3.1\WorkerServiceBasedRabbitMQ.Core.dll
+E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\bin\Debug\netcoreapp3.1\WorkerServiceBasedRabbitMQ.Core.pdb
+E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\obj\Debug\netcoreapp3.1\WorkerServiceBasedRabbitMQ.Core.csproj.AssemblyReference.cache
+E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\obj\Debug\netcoreapp3.1\WorkerServiceBasedRabbitMQ.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\obj\Debug\netcoreapp3.1\WorkerServiceBasedRabbitMQ.Core.AssemblyInfoInputs.cache
+E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\obj\Debug\netcoreapp3.1\WorkerServiceBasedRabbitMQ.Core.AssemblyInfo.cs
+E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\obj\Debug\netcoreapp3.1\WorkerServiceBasedRabbitMQ.Core.csproj.CoreCompileInputs.cache
+E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\obj\Debug\netcoreapp3.1\WorkerServiceBasedRabbitMQ.Core.dll
+E:\Dev\source\repos\Tests\WorkerServiceBasedRabbitMQ\WorkerServiceBasedRabbitMQ.Core\obj\Debug\netcoreapp3.1\WorkerServiceBasedRabbitMQ.Core.pdb
